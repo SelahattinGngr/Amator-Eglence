@@ -1,2 +1,2 @@
-# E-lencesine
-Burada amatörce eğlencesine yaptığım c çalışmaları mevcut
+# Amator-Eglence
+Burada amatörce eğlencesine yaptığım c çalışmaları mevcuttur
