@@ -1,0 +1,3 @@
+Burada yapmış oldugum hesap makinesi benzeri sey toplama(+), cıkarma(-), bolme(/), carpma(*), mod alma(%), us alma(^), faktoriyel hesaplama(!) islemleri mevcut
+
+hicbir gerceklikle alakasi olmayabilir tamamen ogrendiklerimi pekistirme amaci ile yapilmis olan eglenceli ve bir o kadar'da kafa yoran bir calismadir.
